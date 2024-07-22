@@ -1,4 +1,4 @@
-# Java Programming I | University of Helsink's MOOCFI
+# Java Programming II | University of Helsink's MOOCFI
 
 <br>
 
@@ -8,7 +8,7 @@
 
 </div>
 
-## this is one of the two repositories made to track my progress on University of Helsinki’s MOOC on Java Programming
+## this is the second repository made to track my progress on University of Helsinki’s MOOC on Java Programming
 
 <br>
 
