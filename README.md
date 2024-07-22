@@ -28,7 +28,7 @@ Java Programming II (Part 8 to 14)
 <br>
 
 <details>
-  <summary align="left">Part 8</summary>
+  <summary align="left">Part 08</summary>
   <br>
 
 	1. Short recap
@@ -43,7 +43,7 @@ Java Programming II (Part 8 to 14)
 <br>
 
 <details>
-  <summary align="left">Part 9</summary>
+  <summary align="left">Part 09</summary>
   <br>
 
 	1. Class inheritance
