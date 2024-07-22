@@ -1,4 +1,4 @@
-# Java Programming II | University of Helsink's MOOCFI
+# Java Programming II | University of Helsink's MOOC
 
 <br>
 
