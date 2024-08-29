@@ -37,7 +37,7 @@ Java Programming II (Part 8 to 14)
 	4. Grouping data using hash maps
 	5. Fast data fetching and grouping information
 
-	total: theory + 37 exercises;
+	
 
 </details>
 <br>
@@ -51,7 +51,7 @@ Java Programming II (Part 8 to 14)
 	3. Object polymorphism
 	4. Summary
 
-	total: theory + 34 exercises;
+
 
 </details>
 <br>
@@ -66,7 +66,7 @@ Java Programming II (Part 8 to 14)
 	4. Using strings
 	5. Summary
 
-	total: theory + 32 exercises;
+	
 
 </details>
 <br>
@@ -81,7 +81,7 @@ Java Programming II (Part 8 to 14)
 	4. Processing files
 	5. Conclusion
 
-	total: theory + 31 exercises;
+	
 
 </details>
 <br>
@@ -96,7 +96,7 @@ Java Programming II (Part 8 to 14)
 	4. Multidimensional data
 	5. Summary
 
-	total: theory + 17 exercises;
+	
 
 </details>
 <br>
@@ -112,7 +112,7 @@ Java Programming II (Part 8 to 14)
 	5. Multiple views
 	6. Summary
 
-	total: theory + 13 exercises;
+	
 
 </details>
 <br>
@@ -127,7 +127,7 @@ Java Programming II (Part 8 to 14)
 	4. Maven and third-party libraries
 	5. Conclusion
 
-	total: theory + 8 exercises;
+	
 
 </details>
 
