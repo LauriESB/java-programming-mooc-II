@@ -13,15 +13,18 @@
 <br>
 
 > [!IMPORTANT]
-> the exercises are tested using their automatic testing service Test My Code + NetBeans. the course has been divided in two individual parts:
+> the exercises are tested using their automatic testing service Test My Code + NetBeans. the course has been divided in two individual parts ([see part I here](https://github.com/LauriESB/java-programming-mooc-I)):
 
 ```
-Java Programming I (Part 1 to 7)
+Java Programming I (Part 1 to 7)   
 
 Java Programming II (Part 8 to 14) 
 ```
 
-<br>
+
+
+
+
 
 ### here's a summary of how each section is structured and what is being addressed throughout the exercises
 
