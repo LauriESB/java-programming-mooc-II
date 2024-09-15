@@ -135,5 +135,5 @@ Java Programming II (Part 8 to 14)
 </details>
 
 <div align="center">
-	<img align="center" src="https://em-content.zobj.net/source/microsoft/309/ninja-cat_1f431-200d-1f464.png" alt="NetBeans Logo" width="30" height="auto">
+	<img align="center" src="https://em-content.zobj.net/source/microsoft/309/ninja-cat_1f431-200d-1f464.png" alt="Ninja Cat" width="30" height="auto">
 </div>
